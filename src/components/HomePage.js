@@ -21,12 +21,11 @@ function HomePage() {
     //     then(res => {console.log(res); setData(res)}).
     //     catch(err => console.log(err))
     // },[])
-
+//these commit is for branch body component
     return (
         <div>
             <Header />
             <Body />
-            
         </div>
     )
 }
